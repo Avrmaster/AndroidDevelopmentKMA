@@ -1,4 +1,4 @@
-package ua.leskivproduction.kma.leskivpract1
+package ua.leskivproduction.kma.leskivpract2
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -15,10 +15,10 @@ import org.junit.Assert.*
  */
 @RunWith(AndroidJUnit4::class)
 class ExampleInstrumentedTest {
-  @Test
-  fun useAppContext() {
-    // Context of the app under test.
-    val appContext = InstrumentationRegistry.getTargetContext()
-    assertEquals("ua.leskivproduction.kma.leskivpract1", appContext.packageName)
-  }
+    @Test
+    fun useAppContext() {
+        // Context of the app under test.
+        val appContext = InstrumentationRegistry.getTargetContext()
+        assertEquals("ua.leskivproduction.kma.leskivpract2", appContext.packageName)
+    }
 }
