@@ -1,4 +1,4 @@
-package ua.leskivproduction.kma.dialogforalert
+package ua.leskivproduction.kma.pickerfordate
 
 import org.junit.Test
 

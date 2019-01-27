@@ -1,4 +1,4 @@
-package ua.leskivproduction.kma.dialogforalert
+package ua.leskivproduction.kma.pickerfordate
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("ua.leskivproduction.kma.dialogforalert", appContext.packageName)
+        assertEquals("ua.leskivproduction.kma.pickerfordate", appContext.packageName)
     }
 }
