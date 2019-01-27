@@ -1,4 +1,4 @@
-package ua.leskivproduction.kma.leskivpract2
+package ua.leskivproduction.kma.hellocompat
 
 import org.junit.Test
 
